@@ -1,4 +1,4 @@
-%--- Demo Synthetic ---%
+%--- Demo Real ---%
 clear;
 close all;
 
